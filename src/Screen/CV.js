@@ -22,7 +22,7 @@ const DATA = [
             {
                 title: 'React Native Stack Lead for mobile application "Shuttle"',
                 detail: [
-                    'Build a bus ordering application in 4 weeks using React Native as framework and JavaScript as programming language.',
+                    'Built a bus ordering application in 4 weeks using React Native as framework and JavaScript as programming language.',
                     'Implemented Redux-Saga and Axios library for fetching the API.',
                     'Easier Google Sign In with Firebase.',
                     'Adapted UI/UX throughout the scrum process for better user experience.'
@@ -31,7 +31,7 @@ const DATA = [
             {
                 title: 'React Native Developer for mobile application "Movie Review"',
                 detail: [
-                    'Build a movie review application using React Native as framework and JavaScript as programming language in 2 weeks.',
+                    'Built a movie review application using React Native as framework and JavaScript as programming language in 2 weeks.',
                     'Implemented Axios library for fetching the API.'
                 ]
             }]
